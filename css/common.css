@@ -3,10 +3,19 @@
 }
 
 #site-title {
-    font-family: 'Nunito', sans-serif !important;
+    font-family: 'Nunito', sans-serif;
     font-size:48px;
 }
 
 #menu {
 	font-family: 'Lato', sans-serif;
+}
+
+#works {
+	font-family: 'Lato', sans-serif;
+}
+
+#works-title{
+    font-family: 'Nunito', sans-serif;    
+    font-size:24px;
 }
